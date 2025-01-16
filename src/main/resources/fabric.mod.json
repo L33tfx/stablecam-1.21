@@ -3,7 +3,7 @@
 	"id": "stablecam",
 	"version": "${version}",
 	"name": "Stable Cam",
-	"description": "A stable third person camera for recording cinematics and playing in a new perspective",
+	"description": "A stable third person camera mode for recording cinematics and playing in a new perspective. Basically the opposite of Freelook.",
 	"authors": [
 		"L33tfox"
 	],

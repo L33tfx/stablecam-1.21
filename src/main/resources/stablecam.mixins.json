@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.l33tfox.stablecam.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+  ],
+  "client": [
+    "CameraMixin",
+    "GameOptionsMixin",
+    "GameRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
